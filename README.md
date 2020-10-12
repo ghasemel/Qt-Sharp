@@ -1,1 +1,1 @@
-# An samll financial application (called Sharp) in Qt
+# base for financial application (called Sharp) in Qt
